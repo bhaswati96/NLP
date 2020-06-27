@@ -27,4 +27,12 @@ This course is taught in Vellore Institute of Technology's Masters of Artificial
 <li><a href="https://github.com/bhaswati96/nlp/blob/Task-3/5_bengali_func.ipynb" class="button">Operations on Regional Language</a></li>
 </li>
 
+<li>Task 4
+  <li><a href="https://github.com/bhaswati96/nlp/blob/TASK-4/08679416.pdf" class="button">Paper1</a></li>
+  <li><a href="https://github.com/bhaswati96/nlp/blob/TASK-4/08858583.pdf" class="button">Paper2</a></li>
+  <li><a href="https://github.com/bhaswati96/nlp/blob/TASK-4/SomeCorpusAccessToolsforBanglaCorpusIJOAL2016.pdf" class="button">Paper3</a></li>
+  
+</li>
+ 
+
 

@@ -24,7 +24,7 @@ This course is taught in Vellore Institute of Technology's Masters of Artificial
 </li>
 
 <li>Task 3
-<li><a href="https://github.com/bhaswati96/nlp/tree/Task-3" class="button">Operations on Regional Language</a></li>
+<li><a href="https://github.com/bhaswati96/nlp/blob/Task-3/5_bengali_func.ipynb" class="button">Operations on Regional Language</a></li>
 </li>
 
 

@@ -19,7 +19,7 @@ This course is taught in Vellore Institute of Technology's Masters of Artificial
 </li>
 
 <li>Task 2 
-<li><a href="https://github.com/bhaswati96/nlp/tree/Task-2">Chunking</a></li>
+<li><a href="https://github.com/bhaswati96/nlp/blob/Task-2/Chunking_of_LOR's%20(1).ipynb">Chunking</a></li>
 
 </li>
 

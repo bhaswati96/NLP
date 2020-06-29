@@ -12,6 +12,36 @@ This course is taught in Vellore Institute of Technology's Masters of Artificial
 # Experiments
 
 
+# Review
+<ol>
+<li>Task 1
+<b><li><a href="https://github.com/bhaswati96/nlp/blob/master/CMU%20WORDLIST.ipynb" class="button">CMU Wordlist</a></li>
+      <ol>
+      <li>WordNet</li>
+      <li>Cosine Similarity </li>
+  </ol>
+ 
+  </li>
+
+<li>Task 2 
+<li><a href="https://github.com/bhaswati96/nlp/blob/master/coca.ipynb">COCA</a></li>
+
+</li>
+
+<ol>
+<li>Task 3
+<li><a href="https://github.com/bhaswati96/nlp/blob/master/corpus%20postagging.ipynb">Corpus Postagging</a></li>
+     <ol>
+      <li>Stemming</li>
+      <li>Lemmatization </li>
+       <li>Chinese Segmentation</li>
+       <li>Text processing using pipeline</li>
+       <li>Homework</li>
+  </ol>
+</li>
+
+
+
 
 # Review 2
 <li>Task 1
